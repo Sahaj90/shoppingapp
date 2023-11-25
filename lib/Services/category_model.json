@@ -1,0 +1,77 @@
+{
+  "categories": [
+    {
+      "name": "Women Clothing",
+      "subcategory": [
+        "Topwear",
+        "Dresses",
+        "Trousers"
+      ]
+    },
+    {
+      "name": "Men Clothing",
+      "subcategory": [
+        "T shirts",
+        "Jeans",
+        "Formal Shirts"
+      ]
+    },
+    {
+      "name": "Computer & Accessories",
+      "subcategory": [
+        "Keaboard",
+        "Mouse",
+        "Laptops"
+      ]
+    },
+    {
+      "name": "Kids & Toys",
+      "subcategory": [
+        "Bath & Skincare",
+        "Stationary",
+        "Toys"
+      ]
+    },
+    {
+      "name": "Sports",
+      "subcategory": [
+        "Cricket",
+        "Sport wear",
+        "Sport Gear"
+      ]
+    },
+    {
+      "name": "Furniture",
+      "subcategory": [
+        "Beds",
+        "Sofas",
+        "Wardrobes"
+      ]
+    },
+    {
+      "name": "Mobile",
+      "subcategory": [
+        "Apple",
+        "Samsung",
+        "Oppo"
+      ]
+    },
+    {
+      "name": "Jewelery",
+      "subcategory": [
+        "Necklace",
+        "Earring",
+        "Gold"
+
+      ]
+    },
+    {
+      "name": "Appliances",
+      "subcategory": [
+        "TV",
+        "AC",
+        "Washing Machine"
+      ]
+    }
+  ]
+}
